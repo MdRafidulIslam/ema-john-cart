@@ -1,0 +1,17 @@
+.review-items-container {
+    margin: 0 auto;
+}
+
+.review-btn {
+    background-color: #FF9900;
+    border: 0;
+    border-radius: 4px;
+    height: 48px;
+    width: 232px;
+    font-size: 17px;
+    color: white;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
